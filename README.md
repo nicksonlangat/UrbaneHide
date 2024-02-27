@@ -9,4 +9,4 @@ Explore the live version via
 It looks like below:
 
 
-<img src="screens/urban.jpg" width="900"/>
+<img src="screens/urban.png" width="900"/>
